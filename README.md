@@ -1,5 +1,3 @@
-# GitUI
-
 ![](assets/logo.png)
 
 [![CI](https://github.com/extrawurst/gitui/workflows/CI/badge.svg)](https://github.com/extrawurst/gitui/actions)
