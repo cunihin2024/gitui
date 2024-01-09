@@ -1,12 +1,11 @@
 <h1 align="center">
 <img width="300px" src="assets/logo.png" />
 
-[![CI][s0]][l0] [![crates][s1]][l1] ![MIT][s2] [![UNSAFE][s3]][l3] [![ITCH][s4]][l4] [![TWEET][s6]][l6] [![dep_status][s7]][l7]
+[![CI][https://github.com/extrawurst/gitui/workflows/CI/badge.svg]][https://github.com/extrawurst/gitui/actions]
+[![crates][s1]][l1] ![MIT][s2] [![UNSAFE][s3]][l3] [![ITCH][s4]][l4] [![TWEET][s6]][l6] [![dep_status][s7]][l7]
 
 </h1>
 
-[s0]: https://github.com/extrawurst/gitui/workflows/CI/badge.svg
-[l0]: https://github.com/extrawurst/gitui/actions
 [s1]: https://img.shields.io/crates/v/gitui.svg
 [l1]: https://crates.io/crates/gitui
 [s2]: https://img.shields.io/badge/license-MIT-blue.svg
